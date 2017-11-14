@@ -1437,7 +1437,7 @@ function drawPrerollStage(ctx, text, pauseTime, startLine, scrollOff) {
 
 function drawPrerollText(ctx, w, h) {
 	var fontSize = 8,
-	    speed = 4,
+	    speed = 1,
 	    lines = 0;
 
 	drawFill(ctx, w, h, pal.stringWipe);
