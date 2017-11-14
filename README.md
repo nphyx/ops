@@ -28,7 +28,7 @@ firefox dist/index.html
 
 Create Your Own Levels
 ----------------------
-Modify out ops.levels.js. Figuring out how it works is half the fun! (but seriously, 
+Modify ops.levels.js. Figuring out how it works is half the fun! (but seriously, 
 documentation is a thing that will happen someday).
 
 License
