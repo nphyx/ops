@@ -83,7 +83,7 @@ gulp.task("webpack", ["scripts", "markup", "styles"], function(callback) {
 	});
 });
 
-gulp.task("deploy", ["manifest"], function(cb) {
+gulp.task("deploy", function(cb) {
 	exec("git subtree push --prefix dist hub gh-pages", function(err, stdout, stderr) {
 		console.log(stdout);
 		console.log(stderr);
