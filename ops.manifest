@@ -1,0 +1,21 @@
+CACHE MANIFEST
+
+
+CACHE:
+./index.html
+./scripts/app.js
+./scripts/app.js.map
+./styles/reset.css
+./styles/style.css
+
+
+NETWORK:
+http://*
+https://*
+*
+
+
+SETTINGS:
+prefer-online
+
+# hash: 1a6d7b7db8c48677740565d79f8dab2ce10dcce0a2f47ee07385fd1dbecd52de
