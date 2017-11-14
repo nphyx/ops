@@ -1,4 +1,6 @@
 node_modules
 npm-debug.log
 letsencrypt.config
+target
+dist
 *.sw*
