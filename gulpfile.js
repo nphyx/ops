@@ -72,11 +72,11 @@ gulp.task("styles", ["clean:styles"], function() {
 });
 
 gulp.task("assets", ["clean:assets"], function() {
-	return gulp.src("target/assets/*.*")
+	return gulp.src("src/assets/*.*")
 	.pipe(gulp.dest("dist/assets/"));
 });
 
-gulp.task("webpack", ["scripts", "markup", "styles"], function(callback) {
+gulp.task("webpack", ["scripts", "markup", "styles", "assets"], function(callback) {
 	webpack(webpackConfig, function(err) {
 		if(err) console.log(err);
 		callback();

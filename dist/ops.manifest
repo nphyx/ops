@@ -3,6 +3,7 @@ CACHE MANIFEST
 
 CACHE:
 ./index.html
+./assets/ops.ico
 ./scripts/app.js
 ./scripts/app.js.map
 ./styles/reset.css
@@ -18,4 +19,4 @@ https://*
 SETTINGS:
 prefer-online
 
-# hash: 28acdeea52a039aee35f44ae364b8661acea820e22f039c2211f55e8e8a9c703
+# hash: c54302e594f48b35a1d3ad8aa54ac56782ae02a6eb3d302ff5755215971ac4a2
