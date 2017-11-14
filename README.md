@@ -2,6 +2,13 @@ Ops
 ===
 A bit of a puzzle game.
 
+Instructions
+------------
+1. open game
+2. click logo to begin
+3. figure it out
+4. repeat from 2 until you win
+
 Play Online
 -----------
 Play at https://nphyx.github.io/ops
